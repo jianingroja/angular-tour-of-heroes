@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+// component
+import { HeroDetailComponent } from '../hero-detail/hero-detail.component';
+
 // interface
 import { Hero } from '../hero';
 
